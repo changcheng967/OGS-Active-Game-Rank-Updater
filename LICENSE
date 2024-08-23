@@ -1,21 +1,28 @@
-MIT License
+# Custom License for OGS Active Game Rank Updater
 
-Copyright (c) 2024 Cheng Chang
+## 1. Permission
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+You are granted a non-exclusive, non-transferable license to use, modify, and distribute the OGS Active Game Rank Updater script ("Script") for personal and non-commercial purposes only.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+## 2. Conditions
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+- **Attribution:** You must include the original copyright notice and this license in any copies or substantial portions of the Script.
+- **Modification:** If you modify the Script and distribute the modified version, you must include a prominent notice stating that you have changed the Script and include a brief description of the changes made.
+- **No Warranty:** The Script is provided "as is," without warranty of any kind. The author does not guarantee the Script's performance or suitability for any specific purpose.
+
+## 3. Restrictions
+
+- **Commercial Use:** You may not use the Script for commercial purposes without prior written permission from the author.
+- **Redistribution:** You may not redistribute the Script or any modifications to it without including this license and providing proper attribution.
+
+## 4. Termination
+
+If you fail to comply with any of these terms, your rights under this license will automatically terminate. Upon termination, you must cease all use of the Script and destroy all copies.
+
+## 5. Governing Law
+
+This license shall be governed by and construed in accordance with the laws of the jurisdiction in which the author resides.
+
+## 6. Contact
+
+For any inquiries or permissions, please contact Cheng Chang at changcheng6541@gmail.com.
