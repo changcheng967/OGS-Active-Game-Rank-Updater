@@ -35,7 +35,7 @@ This script monitors the active games of a specific player on OGS (Online Go Ser
    - Execute the script using Python:
 
      ```sh
-     python path/to/your_script.py
+     python path/to/ELO.py
      ```
 
 2. **Script Output:**
@@ -51,5 +51,5 @@ This script is licensed under the MIT License. See the [LICENSE](LICENSE) file f
 
 ## Contact
 
-For questions or feedback, please reach out to [changcheng6541@gmail.com].
+For questions or feedback, please reach out to changcheng6541@gmail.com.
 
