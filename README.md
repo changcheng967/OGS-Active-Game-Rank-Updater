@@ -5,7 +5,7 @@ This script monitors the active games of a specific player on OGS (Online Go Ser
 ## Prerequisites
 
 - Python 3.x
-- `requests` library (can be installed using `pip install requests`)
+- `requests` library (can be installed using `pip install -r requirements.txt`)
 
 ## Configuration
 
