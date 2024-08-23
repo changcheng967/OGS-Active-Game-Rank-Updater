@@ -35,7 +35,7 @@ This script monitors the active games of a specific player on OGS (Online Go Ser
    - Execute the script using Python:
 
      ```sh
-     python path/to/your_script.py
+     python path/to/ELO.py
      ```
 
 2. **Script Output:**
